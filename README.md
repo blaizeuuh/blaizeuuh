@@ -3,7 +3,7 @@
 
 - 🌱 J’apprends actuellement **Framework, JS, Tailwind CSS, Java, PHP**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://blais-gomes.github.io/Portfolio](https://blais-gomes.github.io/Portfolio)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://blaizeuuh.github.io/Portfolio](https://blaizeuuh.github.io/Portfolio)
 
 - 📫 Me contacter : **blaisgomesjob@gmail.com**
 
