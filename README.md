@@ -7,7 +7,6 @@
 
 - 📫 Me contacter : **blaisgomesjob@gmail.com**
 
-- ⚡ Fun fact : **Je suis DRÔLE**
 
 <h3 align="left">Me retrouver :</h3>
 <p align="left">
