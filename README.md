@@ -1,4 +1,6 @@
-<h1 align="center">Salut 👋, je suis Blais</h1>
+<h1 align="center">Bonjour et Bienvenue</h1>
+
+<h3 align="center">Je m'appel Blais.</h3>
 <h3 align="center">Développeur frontend passionné, basé en France</h3>
 
 - 🌱 J’apprends actuellement **Framework, JS, Tailwind CSS, Java, PHP**
